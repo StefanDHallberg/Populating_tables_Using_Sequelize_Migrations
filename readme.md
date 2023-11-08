@@ -2,9 +2,11 @@ Populating tables Using Sequelize Migrations / dummies.
 =======================================================
 # TO RUN:
 ## Root terminal commands:
+```
 ### 1) sequelize-cli db:seed:all
 ## After seeding is finished. Run:
 ### 2) npm start
+```
 ### you can run the server.js in the root folder.
 
 To edit seeders: /seeders/ 20231108161941-add-dummy-users.js if you want to change the dummy data / amount.
