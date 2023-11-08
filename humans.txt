@@ -1,0 +1,13 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+Stefan H
+
+# THANKS
+    Me, myself, and I.
+
+# TECHNOLOGY COLOPHON
+
+    CSS3, HTML5, Sequelize, Express, Node.js.
+    Apache Server Configs, jQuery, Modernizr, Normalize.css

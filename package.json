@@ -1,0 +1,26 @@
+{
+  "name": "Populating tables Using Sequelize Migrations",
+  "version": "0.0.1",
+  "description": "Sequelize Migrations",
+  "keywords": [],
+  "license": "Your license",
+  "author": "Stefan H",
+  "scripts": {
+    "build": "parcel build index.html",
+    "dev": "parcel index.html --open",
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "faker": "^5.5.3",
+    "mysql2": "^3.6.3",
+    "pg": "^8.11.3",
+    "pg-hstore": "^2.3.4",
+    "sequelize": "^6.34.0",
+    "sequelize-cli": "^6.6.2"
+  }
+}
